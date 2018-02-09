@@ -19,7 +19,10 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
+        "../node_modules/nouislider/distribute/nouislider.min.css",
+        "assets/sass/app.scss",
         "styles.css"
+
       ],
       "scripts": [],
       "environmentSource": "environments/environment.ts",

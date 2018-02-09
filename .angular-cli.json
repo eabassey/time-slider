@@ -20,7 +20,6 @@
       "prefix": "app",
       "styles": [
         "../node_modules/nouislider/distribute/nouislider.min.css",
-        "assets/sass/app.scss",
         "styles.css"
 
       ],
